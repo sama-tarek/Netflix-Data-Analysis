@@ -23,4 +23,5 @@ Exploratory data analysis of Netflix titles dataset using Python.
 
 ## Files
 - Netflix_Project.ipynb
+- netflix_titles.csv
 - README.md
