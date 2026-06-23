@@ -87,7 +87,6 @@ Netflix-Data-Analysis/
 
 * Perform genre-based recommendation analysis.
 * Build a recommendation system.
-* Create an interactive dashboard using Power BI or Tableau.
 * Apply machine learning techniques to predict content categories.
 
 ## Author
